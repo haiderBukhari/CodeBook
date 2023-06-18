@@ -284,5 +284,6 @@
       "name": "Muhammad Haider Bukhari",
       "id": 1
     }
-  ]
+  ],
+  "csp-header": "default-src 'self'; connect-src 'self' https://haiderbukhari.github.io;"
 }
